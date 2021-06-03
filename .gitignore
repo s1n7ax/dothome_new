@@ -1,0 +1,13 @@
+workspace
+
+.cache
+.mozilla
+
+.local/share/nvim
+.local/share/xorg
+.local/share/recently-used.xbel
+
+.bashrc
+.bash_profile
+.bash_logout
+.bash_history
