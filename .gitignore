@@ -2,10 +2,16 @@ workspace
 
 .cache
 .mozilla
+.gnupg
+.password-store
+.themes
+.icons
 
 .local/share/nvim
 .local/share/xorg
 .local/share/recently-used.xbel
+
+.config/BraveSoftware
 
 .bashrc
 .bash_profile
