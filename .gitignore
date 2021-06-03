@@ -7,6 +7,7 @@ workspace
 .themes
 .icons
 .pki
+.ssh
 
 .local/share/nvim
 .local/share/xorg

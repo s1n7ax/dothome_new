@@ -13,5 +13,5 @@ alias pac="sudo pacman -Sy && sudo pacman -S"
 #                                   LOCATIONS                                  #
 #------------------------------------------------------------------------------#
 alias eloc="cd ~/.s1n7ax && nvim"
-alias eloc="cd ~/.config/nvim && nvim"
+alias evim="cd ~/.config/nvim && nvim"
 alias cdw="cd ~/workspace"
