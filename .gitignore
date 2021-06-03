@@ -6,14 +6,24 @@ workspace
 .password-store
 .themes
 .icons
+.pki
 
 .local/share/nvim
 .local/share/xorg
 .local/share/recently-used.xbel
 
 .config/BraveSoftware
+.config/gtk-3.0/bookmarks
+.config/Thunar/accels.scm
+.config/Thunar/uca.xml
+.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
 
 .bashrc
 .bash_profile
 .bash_logout
 .bash_history
+.zsh_history
+.zcompdump-s1n7ax-5.8
+.lesshst
+.Xauthority
+.shell.pre-oh-my-zsh
