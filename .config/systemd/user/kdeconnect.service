@@ -1,0 +1,10 @@
+[Unit]
+Description=Starts KDE Connect
+After=network.target
+
+[Service]
+ExecStart=/usr/lib/kdeconnectd
+Restart=always
+
+[Install]
+WantedBy=multy-user.target
